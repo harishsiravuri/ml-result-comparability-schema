@@ -2,8 +2,8 @@
   "files": [
     {
       "path": "CITATION.cff",
-      "sha256": "fd0c326b7cac9e7d87fb31f1c109f1d8fb0d78bbb32c9f0e75ee30cb772b12b4",
-      "bytes": 1029
+      "sha256": "5bc854d8a686fb3a00a074db11da9019689735bce1824a53f6bb03eeb56a95ef",
+      "bytes": 1072
     },
     {
       "path": "LICENSES.md",
@@ -12,8 +12,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "d995f0eae92f90457ce432b02ecc0e2674bf781a6a35c0b3c36b74a5dade2230",
-      "bytes": 3286
+      "sha256": "f3010049e4a8ead575469dbecff6a32fc989c5df4110400aa1db0c84ecad9daf",
+      "bytes": 3469
     },
     {
       "path": "comparability_certificates.jsonl",

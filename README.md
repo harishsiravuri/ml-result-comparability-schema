@@ -10,8 +10,9 @@ The format is specified in the short paper "Protocol-Qualified Result Records an
 Comparability Certificates: A Machine-Readable Schema for Cross-Paper Comparison"
 (Siravuri and Alhoori). The dataset, the protocol-partitioned leaderboards, and the
 census findings are presented in the companion resource paper "Cross-Paper Result
-Comparability: A Dataset, Protocol-Partitioned Leaderboards, and a Census"
-(AI4SciSci 2026, CEUR, to appear).
+Comparability: A Dataset, Protocol-Partitioned Leaderboards, and a Census",
+accepted and presented at the AI4SciSci 2026 workshop (JCDL 2026); proceedings
+to appear.
 
 ## Contents
 
@@ -55,5 +56,6 @@ Please cite the companion resource paper and the dataset release; machine-readab
 metadata is in `CITATION.cff`.
 
 > Siravuri, H. V. & Alhoori, H. (2026). Cross-Paper Result Comparability: A Dataset,
-> Protocol-Partitioned Leaderboards, and a Census. AI4SciSci 2026 (JCDL), CEUR
-> Workshop Proceedings, to appear.
+> Protocol-Partitioned Leaderboards, and a Census. The 3rd International Workshop on
+> Artificial Intelligence for the Science of Science (AI4SciSci 2026), co-located with
+> ACM/IEEE JCDL 2026. Accepted and presented; proceedings to appear.
