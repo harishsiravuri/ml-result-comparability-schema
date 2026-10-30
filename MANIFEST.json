@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "fd0c326b7cac9e7d87fb31f1c109f1d8fb0d78bbb32c9f0e75ee30cb772b12b4",
+      "bytes": 1029
+    },
+    {
+      "path": "LICENSES.md",
+      "sha256": "1624d264aca3236bcc497a5972d49f447fe3ef5f16695cdddd6019b51f5749c3",
+      "bytes": 426
+    },
+    {
+      "path": "README.md",
+      "sha256": "d995f0eae92f90457ce432b02ecc0e2674bf781a6a35c0b3c36b74a5dade2230",
+      "bytes": 3286
+    },
+    {
+      "path": "comparability_certificates.jsonl",
+      "sha256": "484edd43118b04e149da28ecf12e46b8a67cc00e52820a958242c1309dbf65f3",
+      "bytes": 17072213
+    },
+    {
+      "path": "schemas/comparability_certificate.schema.json",
+      "sha256": "c0e802f13625afde6e37fb3a1febbb9723e52df545c375864e694a500492f3c3",
+      "bytes": 7708
+    },
+    {
+      "path": "schemas/query_templates.json",
+      "sha256": "268c6179e699a9239a99b4b45c1a2f5ac6ca425e59be79601c380b39c9a66d5f",
+      "bytes": 3848
+    },
+    {
+      "path": "validation/certificates_summary.json",
+      "sha256": "e23e0542f5e26ce39a5091cabc1fa098fdbba84345989a13675b9f0698a7e9a8",
+      "bytes": 973
+    }
+  ]
+}

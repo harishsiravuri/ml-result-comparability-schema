@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these schema artifacts, please cite the companion resource paper and the dataset release."
+title: "Comparability Certificates and Schema for Cross-Paper Result Comparability"
+type: dataset
+authors:
+  - family-names: Siravuri
+    given-names: Harish Varma
+    orcid: "https://orcid.org/0009-0008-9785-0816"
+  - family-names: Alhoori
+    given-names: Hamed
+    orcid: "https://orcid.org/0000-0002-4733-6586"
+repository-code: "https://github.com/harishsiravuri/ml-result-comparability-schema"
+license: CC-BY-SA-4.0
+version: v1.0.0
+preferred-citation:
+  type: conference-paper
+  title: "Cross-Paper Result Comparability: A Dataset, Protocol-Partitioned Leaderboards, and a Census"
+  authors:
+    - family-names: Siravuri
+      given-names: Harish Varma
+    - family-names: Alhoori
+      given-names: Hamed
+  collection-title: "Proceedings of AI4SciSci 2026: The 3rd Workshop on AI for Science of Science, co-located with JCDL 2026"
+  year: 2026
+  notes: "CEUR Workshop Proceedings, to appear"
