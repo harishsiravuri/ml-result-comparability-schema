@@ -12,13 +12,18 @@
     },
     {
       "path": "README.md",
-      "sha256": "d32d7b7736b71b98c6ac490ec0126e00ce4cbef86c88bbd7a8a9b980a30d9445",
-      "bytes": 3543
+      "sha256": "65ee518cec3acdb3c14717ad0ed85a2a923532f17a810d834fa466130f50fdfb",
+      "bytes": 3778
     },
     {
       "path": "comparability_certificates.jsonl",
       "sha256": "484edd43118b04e149da28ecf12e46b8a67cc00e52820a958242c1309dbf65f3",
       "bytes": 17072213
+    },
+    {
+      "path": "judge_influence.py",
+      "sha256": "e9fbcca16294bfd9c88ab4faf319ec6438f124cfeb3ccf5b59ff4c66c4e45811",
+      "bytes": 3161
     },
     {
       "path": "schemas/comparability_certificate.schema.json",
@@ -32,8 +37,8 @@
     },
     {
       "path": "validate.py",
-      "sha256": "8cb2055fc1bd72623cb1f4349e43334974f82b31bf643f3e04a1c10093e59068",
-      "bytes": 2144
+      "sha256": "df1b7467561969119a70fd744b7ccd9985613362ffceeb37ec94da22903f0629",
+      "bytes": 4064
     },
     {
       "path": "validation/certificates_summary.json",

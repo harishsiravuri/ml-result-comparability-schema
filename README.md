@@ -36,7 +36,10 @@ to appear.
 ## Validation
 
 Run `python validate.py` (needs `jsonschema` >= 4) to re-run the checks over the
-released file; the expected output is in the script's docstring.
+released file, including an independent rebuild of `implied_status` from each
+record's rows. Run `python judge_influence.py --src <path-to-ml-result-comparability>/src`
+to measure how model input changes the detailed outcome (278 of 9,471 on v1.0.0).
+Expected outputs are in the scripts' docstrings.
 
 
 All 9,471 certificates validate against the schema with zero failures. An
