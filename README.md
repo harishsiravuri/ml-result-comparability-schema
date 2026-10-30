@@ -35,6 +35,10 @@ to appear.
 
 ## Validation
 
+Run `python validate.py` (needs `jsonschema` >= 4) to re-run the checks over the
+released file; the expected output is in the script's docstring.
+
+
 All 9,471 certificates validate against the schema with zero failures. An
 excerpt-text leak check over every certificate returns zero. The status
 reconstruction audit (`status` equals the status implied by `per_facet` plus

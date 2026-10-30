@@ -12,8 +12,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "d61912f9ec9ecea46d8471e34d9364ea7482c3528ae51e43fdcba3a69ef0eddd",
-      "bytes": 3395
+      "sha256": "d32d7b7736b71b98c6ac490ec0126e00ce4cbef86c88bbd7a8a9b980a30d9445",
+      "bytes": 3543
     },
     {
       "path": "comparability_certificates.jsonl",
@@ -29,6 +29,11 @@
       "path": "schemas/query_templates.json",
       "sha256": "268c6179e699a9239a99b4b45c1a2f5ac6ca425e59be79601c380b39c9a66d5f",
       "bytes": 3848
+    },
+    {
+      "path": "validate.py",
+      "sha256": "8cb2055fc1bd72623cb1f4349e43334974f82b31bf643f3e04a1c10093e59068",
+      "bytes": 2144
     },
     {
       "path": "validation/certificates_summary.json",
