@@ -22,8 +22,8 @@
     },
     {
       "path": "judge_influence.py",
-      "sha256": "e9fbcca16294bfd9c88ab4faf319ec6438f124cfeb3ccf5b59ff4c66c4e45811",
-      "bytes": 3161
+      "sha256": "799c1bd9d583fc31341b86912b95ebd2e5c951c14fe4cdbf7094e1da923529cb",
+      "bytes": 3374
     },
     {
       "path": "schemas/comparability_certificate.schema.json",

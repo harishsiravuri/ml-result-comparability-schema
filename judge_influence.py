@@ -4,7 +4,10 @@ Usage:  python judge_influence.py [--src PATH]
         PATH is the src/ directory of a clone of
         github.com/harishsiravuri/ml-result-comparability (default:
         ../ml-result-comparability/src). The detailed-outcome rules are
-        imported from that release, not duplicated here.
+        imported from that clone, not duplicated here. The v1.0.0 data
+        release contains no src/ directory: use the repository's main
+        branch at commit 7e8da59 or later (the rule files are unchanged
+        since they were first packaged, commit cc50a55).
 
 Procedure, per released determination:
   1. Sanity: recompute the detailed outcome from ALL stored rows plus the
