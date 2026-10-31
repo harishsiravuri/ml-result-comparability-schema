@@ -42,8 +42,9 @@ to measure how model input changes the detailed outcome (278 of 9,471 on v1.0.0)
 Expected outputs are in the scripts' docstrings.
 
 
-All 9,471 certificates validate against the schema with zero failures. An
-excerpt-text leak check over every certificate returns zero. The status
+All 9,471 certificates validate against the schema with zero failures. A
+recursive search finds none of the excerpt-bearing field names (evidence_quote,
+rationale, note) in any certificate. The status
 reconstruction audit (`status` equals the status implied by `per_facet` plus
 `normalizations_applied`) passes on 99.4% (9,412 of 9,471); the 59 divergences are
 flagged by `self_consistent` and logged by kind in the summary. The certificates
