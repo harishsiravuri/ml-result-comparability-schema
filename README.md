@@ -7,7 +7,7 @@ at [`ml-result-comparability`](https://github.com/harishsiravuri/ml-result-compa
 (Zenodo concept DOI [10.5281/zenodo.21715275](https://doi.org/10.5281/zenodo.21715275)).
 
 The format is specified in the short paper "A Schema for Comparing Results Across
-Papers" (Siravuri and Alhoori). The dataset, the protocol-partitioned leaderboards, and the
+ML Papers" (Siravuri and Alhoori). The dataset, the protocol-partitioned leaderboards, and the
 census findings are presented in the companion resource paper "Cross-Paper Result
 Comparability: A Dataset, Protocol-Partitioned Leaderboards, and a Census",
 accepted and presented at the AI4SciSci 2026 workshop (JCDL 2026); proceedings
